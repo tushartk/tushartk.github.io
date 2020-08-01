@@ -1,2 +1,2 @@
-# tushartk.github.io
-Portfolio website
+# My portfolio
+Portfolio website 
